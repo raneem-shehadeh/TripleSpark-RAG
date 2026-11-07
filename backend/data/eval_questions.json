@@ -1,0 +1,4 @@
+[
+  {"question":"كيف أسجل موادي؟","expected_answer":"عبر البوابة الإلكترونية","expected_source":"registration.pdf","answerable":true},
+  {"question":"ما رسوم التسجيل؟","expected_answer":"لا توجد معلومات كافية","expected_source":null,"answerable":false}
+]

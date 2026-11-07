@@ -1,0 +1,47 @@
+# Local credentials and configuration
+.env
+.env.*
+!.env.example
+.dev.vars
+.dev.vars.*
+*.pem
+*.key
+credentials.json
+service-account*.json
+
+# Python environments, caches, and local indexes
+.venv/
+.venv-*/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+pytest-of-*/
+.coverage*
+htmlcov/
+chroma_db/
+*.db
+*.db-*
+*.sqlite
+*.sqlite-*
+*.sqlite3
+*.sqlite3-*
+
+# JavaScript dependencies and generated output
+node_modules/
+dist/
+dist-ssr/
+.output/
+.tanstack/
+.nitro/
+.vinxi/
+.wrangler/
+
+# Local scratch and personal notes
+*.log
+logs/
+*.tmp
+*.local
+.DS_Store
+Thumbs.db
+TECHNICAL_STUDY_GUIDE_AR.md
